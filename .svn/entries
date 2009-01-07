@@ -1,0 +1,70 @@
+8
+
+dir
+85
+http://erlfs.googlecode.com/svn/trunk/erlfs
+http://erlfs.googlecode.com/svn
+
+
+
+2008-09-10T23:54:23.553895Z
+85
+DawsDesign
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+063e8600-9e52-0410-87ac-1361ef328184
+
+priv
+dir
+
+LICENSE
+file
+
+
+
+
+2009-01-07T17:22:01.000000Z
+d78d76707e79410347bedaf1b8d57a43
+2008-09-10T11:51:11.985970Z
+79
+DawsDesign
+
+lib
+dir
+
+_build.cfg
+file
+
+
+
+
+2009-01-07T17:22:01.000000Z
+1bf9f0119893eb50d6bb2a24f2abb23c
+2008-09-10T23:54:23.553895Z
+85
+DawsDesign
+
+Makefile
+file
+
+
+
+
+2009-01-07T17:22:01.000000Z
+87ecb2a1e9254a808e8e6cdb3b050766
+2008-09-10T11:51:49.980880Z
+82
+DawsDesign
+

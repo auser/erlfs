@@ -1,0 +1,6 @@
+@author Matt Williamson <mwilliamson@dawsdesign.com>
+@copyright 2008 Matt Williamson
+@version 0.1.0.0
+@title Erlfs Store Application
+@doc erlfs_store is a storage point for an erlfs_cluster. When files are split into chunks, chunks are stored here.
+@reference [http://erlfs.com]

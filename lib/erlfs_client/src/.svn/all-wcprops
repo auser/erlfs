@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_client/src
+END
+erlfs_client_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_client/src/erlfs_client_lib.erl
+END
+erlfs_client_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_client/src/erlfs_client_sup.erl
+END
+erlfs_client_svr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_client/src/erlfs_client_svr.erl
+END
+erlfs_client.erl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_client/src/erlfs_client.erl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_tracker/src
+END
+erlfs_tracker_svr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_tracker/src/erlfs_tracker_svr.erl
+END
+erlfs_tracker.erl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_tracker/src/erlfs_tracker.erl
+END
+erlfs_tracker_lib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_tracker/src/erlfs_tracker_lib.erl
+END
+erlfs_tracker_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_tracker/src/erlfs_tracker_sup.erl
+END

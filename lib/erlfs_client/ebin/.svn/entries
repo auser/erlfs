@@ -1,0 +1,52 @@
+8
+
+dir
+85
+http://erlfs.googlecode.com/svn/trunk/erlfs/lib/erlfs_client/ebin
+http://erlfs.googlecode.com/svn
+
+
+
+2008-09-02T12:00:16.728658Z
+71
+DawsDesign
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+063e8600-9e52-0410-87ac-1361ef328184
+
+erlfs_client.app~
+file
+
+
+
+
+2009-01-07T17:22:00.000000Z
+493cd61d1130d6566e1612661dfa740a
+2008-09-02T12:00:16.728658Z
+71
+DawsDesign
+
+erlfs_client.app
+file
+
+
+
+
+2009-01-07T17:22:01.000000Z
+1c51c441183e01119c387d8ca4302be0
+2008-09-02T12:00:16.728658Z
+71
+DawsDesign
+

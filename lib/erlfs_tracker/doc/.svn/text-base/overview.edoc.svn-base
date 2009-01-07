@@ -1,0 +1,6 @@
+@author Matt Williamson <mwilliamson@dawsdesign.com>
+@copyright 2008 Matt Williamson
+@version 0.1.0.0
+@title Erlfs Tracker Application
+@doc When a file is split up into chunks on an erlfs cluster, the location of every chunk and the file metadata is stored on the erlfs_tracker application.
+@reference [http://erlfs.com]

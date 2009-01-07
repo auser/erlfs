@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/85/trunk/erlfs
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/79/trunk/erlfs/LICENSE
+END
+_build.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/85/trunk/erlfs/_build.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/82/trunk/erlfs/Makefile
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+85
+http://erlfs.googlecode.com/svn/trunk/erlfs/lib/erlfs_store
+http://erlfs.googlecode.com/svn
+
+
+
+2008-09-10T23:54:23.553895Z
+85
+DawsDesign
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+063e8600-9e52-0410-87ac-1361ef328184
+
+include
+dir
+
+doc
+dir
+
+src
+dir
+
+ebin
+dir
+

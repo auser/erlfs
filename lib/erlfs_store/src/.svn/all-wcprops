@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/85/trunk/erlfs/lib/erlfs_store/src
+END
+erlfs_store_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/80/trunk/erlfs/lib/erlfs_store/src/erlfs_store_sup.erl
+END
+erlfs_store_svr.erl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/85/trunk/erlfs/lib/erlfs_store/src/erlfs_store_svr.erl
+END
+erlfs_store.erl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/85/trunk/erlfs/lib/erlfs_store/src/erlfs_store.erl
+END
