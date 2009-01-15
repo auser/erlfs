@@ -2,7 +2,5 @@ ErlFS, a distributed storage system which uses distributed Erlang at it's core. 
 
 Each node keeps track of where the file chunks are located and will load balance automatically.
 
-http://erlfs.com
-
 - Matt Williamson (http://dawsdesign.com/drupal/erlfs)
 - Ari Lerner (http://blog.xnot.org)
